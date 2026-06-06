@@ -1,0 +1,10 @@
+.section {
+  padding: 80px 10%;
+  text-align: center;
+}
+
+.section p {
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.8;
+}
